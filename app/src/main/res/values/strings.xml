@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="add_task_label">Add new task</string>
+    <string name="edit_task_label">Edit task</string>
+
+    <string name="menu_item_reset_list">Reset List</string>
+    <string name="menu_item_dummy_list">Create dummy List</string>
+
+    <string name="to_do_list_text">To-Do list !</string>
+    <string name="to_do_list_empty_text">\n No task  to do. \n\n Click ADD NEW TASK below. \n or \n Use Create Dummy list in menu options to create dummy tasks.</string>
+    <string name="add_task_button">Add New Task</string>
+
+    <string name="add_task_name_hint">Enter Task Name</string>
+    <string name="add_task_location_hint">Enter Location</string>
+    <string name="add_task_message_hint">Enter your message</string>
+    <string name="add_new_task_button_text">Add to task list</string>
+
+    <string name="update_task_button_text">Update Task</string>
+    <string name="delete_task_button_text">Delete Task</string>
+    <string name="go_back_button_text">Go to main page</string>
+</resources>
